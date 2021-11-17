@@ -1,0 +1,184 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Blog</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Blog</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 10px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: .1;
+  background: #ccc;
+  padding: 10px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+</style>
+</head>
+<header>
+  <h2>Blog</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <!-- Belongs at: /_includes/navigation.html -->
+
+<!-- This finds the current page so it can be highlighted. -->
+
+
+
+    
+        
+    
+
+
+    
+
+
+    
+        
+    
+
+
+<!-- Then we build the nav bar. -->
+<nav>
+    <ul>
+    
+        
+            <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+            
+        
+        
+        
+        <li><a href="/">Home</a></li>
+        
+    
+        
+            <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+            
+        
+        
+        
+        <li><a href="/about">About</a></li>
+        
+    
+        
+            <!-- uses yellow, you can change to any other hexadecimal colour code. -->
+            
+        
+        
+        
+        <li style="background-color: #FFFFFF"><a href="/blog">Blog</a></li>
+        
+    
+    </ul>
+</nav>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>Latest Posts</h1>
+
+<ul>
+  
+    <li>
+      <h2><a href="/jekyll/update/2021/10/29/welcome-to-jekyll.html">Welcome to Jekyll!</a></h2>
+      <p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+    </li>
+  
+    <li>
+      <h2><a href="/2021/10/29/bananas.html">Bananas</a></h2>
+      <p>A banana is an edible fruit – botanically a berry – produced by several kinds
+of large herbaceous flowering plants in the genus Musa.</p>
+
+    </li>
+  
+    <li>
+      <h2><a href="/2018/08/22/kiwifruit.html">Kiwifruit</a></h2>
+      <p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+berry of several species of woody vines in the genus Actinidia.</p>
+
+    </li>
+  
+    <li>
+      <h2><a href="/2018/08/21/apples.html">Apples</a></h2>
+      <p>An apple is a sweet, edible fruit produced by an apple tree.</p>
+
+    </li>
+  
+</ul>
+  </article>
+</section>
+
+<footer>
+  <p>---
+layout: default
+---
+<p> - </p></p>
+</footer>
+
+</body>
+</html>
