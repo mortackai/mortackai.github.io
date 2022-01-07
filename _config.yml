@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my blog site that will contain post about random stuff and projects as well as notes on stuff i might need to remember or that might be helpful to someone else. Perhaps at some point it could serve as a resume aid.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Rockwellpoint.com" # the base hostname & protocol for your site, e.g. http://example.com
-imagesrl: "/assets/images"
-thumbsurl: "/assets/thumbs"
+imagesrl: "/assets/images/"
+thumbsurl: "/assets/thumbs/"
 
 # Build settings
 theme: jekyll-theme-minimal
