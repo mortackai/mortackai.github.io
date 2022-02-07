@@ -2,6 +2,7 @@
 layout: post
 title: Jekyll Help
 date: 2022-01-19
+author: mortackai
 ---
 
 # Jekyll Help

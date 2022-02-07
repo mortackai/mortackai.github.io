@@ -1,0 +1,18 @@
+<p>RAID stands for Random/Redundant Array of Independent Disks</p>
+
+<p>NOTE: This is a “high” level review and more of a reminder to myself, which RAID means what. Don’t take this info to the bank because I am taking some liberties with the technical stuff for the sake of brevity.</p>
+
+<h2 id="raid-0-disk-striping">RAID-0 Disk Striping</h2>
+<p>Combines all disks into “single” drive: no fault tolerance.</p>
+
+<h2 id="raid-1-disk-mirroring">RAID-1 Disk Mirroring</h2>
+<p>Mirrors the data between all disks in the pool: Fault tolerance is n-1 (n is number of drives in the pool).</p>
+
+<h2 id="raid-5-striping-with-parity">RAID-5 Striping with Parity</h2>
+<p>Four or more striped drives with single parity: Fault tolerance is one drive.</p>
+
+<h2 id="raid-6-striping-with-double-parity">RAID-6 Striping with double parity</h2>
+<p>Five or more striped drives with double parity: Fault tolerance is two drives.</p>
+
+<h2 id="raid-10-striped-and-mirrored">RAID-10 Striped and Mirrored</h2>
+<p>Combine RAID 0 and RAID 1, so it mirrors the data between striped drive sets.</p>

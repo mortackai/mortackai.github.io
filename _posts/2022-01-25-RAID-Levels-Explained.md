@@ -2,6 +2,7 @@
 layout: post
 title: RAID Levels Explained
 date: 2022-01-25
+author: mortackai
 ---
 
 RAID stands for Random/Redundant Array of Independent Disks
