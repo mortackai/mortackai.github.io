@@ -31,10 +31,6 @@ thumbsurl: "/assets/thumbs/"
 theme: jekyll-theme-minimal
 plugins:
 
-collections:
-  authors:
-    output: true
-
 defaults:
   - scope:
       path: ""
