@@ -2,7 +2,6 @@
 layout: post
 title: Hourly to Salary Chart
 date: 2022-04-15
-author: mortackai
 ---
 
 I never really remember what the translation of hourly to salary or vice versa is, so here is a chart with a rough approximation.
