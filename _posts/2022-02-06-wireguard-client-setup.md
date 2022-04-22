@@ -2,7 +2,6 @@
 layout: post
 title: Wireguard Client Setup
 date: 2022-02-06
-author: mortackai
 ---
 
 install prerequisites
