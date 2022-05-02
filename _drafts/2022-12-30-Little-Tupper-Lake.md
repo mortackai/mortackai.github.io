@@ -11,5 +11,5 @@ I launched my canoe from the hand launch at the ranger station and paddled all t
 also i did this
 
 <video width="320" height="240" controls>
-  <source type="video/mp4" src="/assets/videos/milky-way-timelapse.mp4">
+  <source type="video/mp4" src=/assets/videos/milky-way-timelapse.mp4>
 </video>
