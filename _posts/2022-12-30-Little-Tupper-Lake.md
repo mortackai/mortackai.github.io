@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Little Tupper LAke
+title: Little Tupper Lake
 date: 2022-04-30
 ---
 
