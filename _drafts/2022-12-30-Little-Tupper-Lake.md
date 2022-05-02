@@ -8,3 +8,5 @@ This post is about my latest trip to to little tupper lake. The weather was goin
 ![light pollution](/assets/images/light-pollution.png)
 I launched my canoe from the hand launch at the ranger station and paddled all the way to site 10 on the lake.
 ![William C. Whitney wilderness area](/assets/images/mapwhitney.png)
+also i did this
+![Milky Way Time Lapse](/assets/videos/milky-way-timelapse.mp4)
