@@ -16,3 +16,5 @@ I launched my canoe from the hand launch at the ranger station and paddled all t
 Then at one o'clock in the morning, I got up and setup my camera and started the several hour long time lapse you see below.
 
 <img src="/assets/videos/milky-way.gif" alt="The Milky Way" width="800"/>
+
+As always there were things I wished I had done differently such as starting the timelapse earlier in the evening and having it go longer. When I started the camera at around 1 in the morning I didn't know exactly how the milky way was going to show up and also I wasn't sure how long the battery or storage card would last while constantly taking photos. Now I know that I was nowhere near to depleting either one so my timelapse could have been about twice as long probably.
