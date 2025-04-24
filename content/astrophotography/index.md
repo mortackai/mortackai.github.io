@@ -5,12 +5,12 @@ title: Astrophotography
 categories: ["astrophotography"]
 weight: 3
 params:
-  featured_image: [https://res.cloudinary.com/dpaa7nr3e/image/upload/v1744312190/image_fx4__rkdwxg.png]
+  featured_image: https://res.cloudinary.com/dpaa7nr3e/image/upload/v1744312190/image_fx4__rkdwxg.png
   theme: dark
   sort_order: desc
   sort_by: Name # Exif.Date
 resources:
-  - src: https://res.cloudinary.com/dpaa7nr3e/image/upload/v1744312188/image_fx__udfatb.png
+  - src: https://res.cloudinary.com/dpaa7nr3e/image/upload/v1744312190/image_fx4__rkdwxg.png
     params:
       cover: true
 ---
